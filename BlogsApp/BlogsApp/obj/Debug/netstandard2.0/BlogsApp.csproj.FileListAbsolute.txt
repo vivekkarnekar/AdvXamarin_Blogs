@@ -1,0 +1,13 @@
+D:\Training\Xamarin\demoProjects\BlogsApp\BlogsApp\BlogsApp\obj\Debug\netstandard2.0\BlogsApp.csproj.AssemblyReference.cache
+D:\Training\Xamarin\demoProjects\BlogsApp\BlogsApp\BlogsApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Training\Xamarin\demoProjects\BlogsApp\BlogsApp\BlogsApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Training\Xamarin\demoProjects\BlogsApp\BlogsApp\BlogsApp\obj\Debug\netstandard2.0\Views\PostPage.xaml.g.cs
+D:\Training\Xamarin\demoProjects\BlogsApp\BlogsApp\BlogsApp\obj\Debug\netstandard2.0\BlogsApp.AssemblyInfoInputs.cache
+D:\Training\Xamarin\demoProjects\BlogsApp\BlogsApp\BlogsApp\obj\Debug\netstandard2.0\BlogsApp.AssemblyInfo.cs
+D:\Training\Xamarin\demoProjects\BlogsApp\BlogsApp\BlogsApp\obj\Debug\netstandard2.0\BlogsApp.csproj.CoreCompileInputs.cache
+D:\Training\Xamarin\demoProjects\BlogsApp\BlogsApp\BlogsApp\bin\Debug\netstandard2.0\BlogsApp.deps.json
+D:\Training\Xamarin\demoProjects\BlogsApp\BlogsApp\BlogsApp\bin\Debug\netstandard2.0\BlogsApp.dll
+D:\Training\Xamarin\demoProjects\BlogsApp\BlogsApp\BlogsApp\bin\Debug\netstandard2.0\BlogsApp.pdb
+D:\Training\Xamarin\demoProjects\BlogsApp\BlogsApp\BlogsApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Training\Xamarin\demoProjects\BlogsApp\BlogsApp\BlogsApp\obj\Debug\netstandard2.0\BlogsApp.dll
+D:\Training\Xamarin\demoProjects\BlogsApp\BlogsApp\BlogsApp\obj\Debug\netstandard2.0\BlogsApp.pdb

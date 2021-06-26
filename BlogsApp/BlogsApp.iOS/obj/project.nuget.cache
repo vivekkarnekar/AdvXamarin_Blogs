@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "JI6YVX55YeIEm3RbS9rkojGQX0rn/KOLkGmFtLFmwLJm/I4pnyUfE6H1RLgU3WeqoOFSvv2VRR0zya1RqrtvFg==",
+  "success": true,
+  "projectFilePath": "D:\\Training\\Xamarin\\demoProjects\\BlogsApp\\BlogsApp\\BlogsApp.iOS\\BlogsApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vivekkar\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\vivekkar\\.nuget\\packages\\prism.forms\\8.1.97\\prism.forms.8.1.97.nupkg.sha512",
+    "C:\\Users\\vivekkar\\.nuget\\packages\\prism.unity.forms\\8.1.97\\prism.unity.forms.8.1.97.nupkg.sha512",
+    "C:\\Users\\vivekkar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\vivekkar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\vivekkar\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\vivekkar\\.nuget\\packages\\unity.abstractions\\5.11.7\\unity.abstractions.5.11.7.nupkg.sha512",
+    "C:\\Users\\vivekkar\\.nuget\\packages\\unity.container\\5.11.11\\unity.container.5.11.11.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\vivekkar\\.nuget\\packages\\xamarin.essentials.interfaces\\1.6.1\\xamarin.essentials.interfaces.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
